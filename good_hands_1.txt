@@ -5,3 +5,4 @@ vier,cfs,econ,cyberload
 vier,og,overflow,cyberload
 vier,og,overflow,econ
 vier,vier,overflow,cyberload
+vier,vier,overflow,cosmic
