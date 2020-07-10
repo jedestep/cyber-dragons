@@ -1,0 +1,9 @@
+core
+vier,cfs
+vier,herald,cyberload
+vier,econ,cfs
+vier,og,overflow
+vier,cosmic
+og,cosmic
+og,herald,cyberload
+og,herald,overflow
